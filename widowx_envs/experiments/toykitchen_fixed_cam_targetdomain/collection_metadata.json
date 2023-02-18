@@ -1,0 +1,12 @@
+{
+    "environment": "toykitchen1",
+    "camera_configuration": "microwave",
+    "robot_base_position_variation": "6-6-22",
+    "camera_variation": "6-6-22",
+    "camera_type": "Logitech C920",
+    "policy_desc": "human demo",
+    "robot": "widowx",
+    "gripper": "default",
+    "action_space": "x,y,z,roll, pitch, yaw, grasp_continuous",
+    "object_classes": "microwave, distractors"
+}

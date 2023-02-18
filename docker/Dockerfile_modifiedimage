@@ -1,0 +1,10 @@
+ARG BASE=yanlaiy/robonetv2:latest
+FROM ${BASE}
+ARG USER_ID UID GID
+
+USER root
+# If the line below hangs, try changing the UID of the running user to 1000.
+RUN usermod -u ${UID} ${USER_ID}
+RUN groupmod -g ${GID} ${USER_ID}
+
+USER ${USER_ID}

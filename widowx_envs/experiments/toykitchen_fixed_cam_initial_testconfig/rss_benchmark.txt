@@ -1,0 +1,35 @@
+
+Scenario 1 (easy): Pot left stove, broccoli right rear space, gripper above broccoli (right rear)
+Scenario 2 (easy): Pot left stove, broccoli middle, gripper above broccoli (middle)
+Scenario 3 (easy): Pot right stove, broccoli left rear space, gripper above broccoli (left rear)
+Scenario 4 (easy): Pot right stove, broccoli middle space, gripper above broccoli (middle)
+
+Scenario 5 (medium): pot left stove, broccoli right rear space, gripper middle
+Scenario 6 (medium): pot left stove, broccoli right front space, gripper middle
+Scenario 7 (medium): pot left stove, broccoli middle space, gripper right rear
+Scenario 8 (medium): pot left stove, broccoli middle space, gripper left rear
+Scenario 9 (medium): pot right stove, broccoli left rear space, gripper middle
+Scenario 10 (medium): pot right stove, broccoli left front space, gripper middle
+Scenario 11 (medium): pot right stove, broccoli middle space, gripper left rear
+Scenario 12 (medium): pot right stove, broccoli middle space, gripper right rear
+
+Scenario 13 (hard): pot left stove, broccoli right front space, gripper right rear
+Scenario 14 (hard): pot right stove, broccoli left front space, gripper left rear
+
+
+Scenario 1 (easy): Pot left stove, broccoli right rear space, gripper above broccoli (right rear)
+Scenario 7 (medium): pot left stove, broccoli middle space, gripper right rear
+Scenario 12 (medium): pot right stove, broccoli middle space, gripper right rear
+Scenario 13 (hard): pot left stove, broccoli right front space, gripper right rear
+
+Scenario 2 (easy): Pot left stove, broccoli middle, gripper above broccoli (middle)
+Scenario 4 (easy): Pot right stove, broccoli middle space, gripper above broccoli (middle)
+Scenario 5 (medium): pot left stove, broccoli right rear space, gripper middle
+Scenario 6 (medium): pot left stove, broccoli right front space, gripper middle
+Scenario 9 (medium): pot right stove, broccoli left rear space, gripper middle
+Scenario 10 (medium): pot right stove, broccoli left front space, gripper middle
+
+Scenario 3 (easy): Pot right stove, broccoli left rear space, gripper above broccoli (left rear)
+Scenario 8 (medium): pot left stove, broccoli middle space, gripper left rear
+Scenario 11 (medium): pot right stove, broccoli middle space, gripper left rear
+Scenario 14 (hard): pot right stove, broccoli left front space, gripper left rear

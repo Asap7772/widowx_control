@@ -1,0 +1,62 @@
+protobuf==3.12.0
+gym[mujoco] >= 0.21.0
+numpy >= 1.20.2
+distrax @ git+https://github.com/deepmind/distrax
+flax >= 0.4.0
+tensorflow >= 2.8.0
+ml_collections >= 0.1.0
+tqdm >= 4.60.0
+optax >= 0.0.6
+absl-py >= 0.12.0
+scipy >= 1.6.0
+black
+coverage
+codecov
+codespell
+darglint
+isort
+pytest
+pytest-cov
+pytest-xdist
+pytype
+pyarrow
+lmdb
+pybullet==2.8.7
+cloudpickle==1.3.0
+decorator
+funcsigs
+future
+imageio
+imageio-ffmpeg
+imutils==0.4.6
+matplotlib
+more-itertools
+moviepy
+opencv-python
+pandas
+Pillow
+pyquaternion
+scikit-image
+six
+requests
+h5py
+torch
+torchvision
+tensorboardX
+nvidia_smi
+rospkg
+modern_robotics
+transformations
+wandb
+ipdb
+joblib
+gtimer
+pygame
+boto3
+scikit-video
+msrestazure
+seaborn
+multiworld @ git+https://github.com/avisingh599/multiworld.git
+roboverse @ git+https://github.com/avisingh599/roboverse.git
+git+https://github.com/rail-berkeley/oculus_reader.git
+dm_env

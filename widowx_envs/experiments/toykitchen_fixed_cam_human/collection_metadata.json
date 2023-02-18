@@ -1,0 +1,12 @@
+{
+    "environment": "toykitchen2",
+    "camera_configuration": "tabletop",
+    "robot_base_position_variation": "9-16-31",
+    "camera_variation": "9-16-31",
+    "camera_type": "Logitech C920",
+    "policy_desc": "human demo",
+    "robot": "widowx",
+    "gripper": "default",
+    "action_space": "x,y,z,roll, pitch, yaw, grasp_continuous",
+    "object_classes": "sushi, pot, distractors"
+}
